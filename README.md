@@ -5,7 +5,7 @@ I am **Amandeep Kumar**, a Backend Engineer specializing in Java and Spring Boot
 - 🔭 **I’m currently working on**: Production-ready microservices and full-stack systems.
 - 🌱 **I’m currently learning**: Advanced system design and cloud infrastructure.
 - 💬 **Ask me about**: Java, Spring Boot, Microservices, and Database Optimization.
-- 📫 **How to reach me**: [Your LinkedIn/Email]
+- 📫 **How to reach me**: [LinkedIn](https://in.linkedin.com/in/amanxdeep)
 
 ---
 
@@ -24,5 +24,4 @@ I am **Amandeep Kumar**, a Backend Engineer specializing in Java and Spring Boot
 
 ---
 
-### 📊 GitHub Ecosystem
-![Amandeep's GitHub Stats](https://vercel.app)
+![Profile Views](https://komarev.com)
