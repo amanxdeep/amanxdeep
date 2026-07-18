@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm Aman Deep
+# Hi 👋 I'm Amandeep
 
 ### Backend Developer • Java • Spring Boot • Node.js
 
