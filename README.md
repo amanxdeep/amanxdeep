@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**amanxdeep/amanxdeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Amandeep Kumar**, a Backend Engineer specializing in Java and Spring Boot, focusing on scalable microservices and robust API development.
 
-Here are some ideas to get you started:
+- 🔭 **I’m currently working on**: Production-ready microservices and full-stack systems.
+- 🌱 **I’m currently learning**: Advanced system design and cloud infrastructure.
+- 💬 **Ask me about**: Java, Spring Boot, Microservices, and Database Optimization.
+- 📫 **How to reach me**: [Your LinkedIn/Email]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured Projects
+
+*   **[notification-service](https://github.com)**: Multi-channel (Email/SMS) notification system.
+*   **[route-mind](https://github.com)**: Unified courier API integration platform.
+*   **[MindEase](https://github.com)**: Secure, role-based therapy management system (Java 21, Spring Boot 3.5).
+
+---
+
+### 🛠️ Technical Toolbox
+
+*   **Languages/Frameworks**: Java, SQL, Spring Boot, Spring Security, JPA.
+*   **Databases/Tools**: MySQL, Redis, Maven, Git, JUnit 5.
+
+---
+
+### 📊 GitHub Ecosystem
+![Amandeep's GitHub Stats](https://vercel.app)
