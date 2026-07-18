@@ -11,9 +11,9 @@ I am **Amandeep Kumar**, a Backend Engineer specializing in Java and Spring Boot
 
 ### 🚀 Featured Projects
 
-*   **[notification-service](https://github.com)**: Multi-channel (Email/SMS) notification system.
-*   **[route-mind](https://github.com)**: Unified courier API integration platform.
-*   **[MindEase](https://github.com)**: Secure, role-based therapy management system (Java 21, Spring Boot 3.5).
+*   **[notification-service](https://github.com/amanxdeep/notification-service)**: Multi-channel (Email/SMS) notification system.
+*   **[route-mind](https://github.com/amanxdeep/route-mind)**: Unified courier API integration platform.
+*   **[MindEase](https://github.com/amanxdeep/mind-ease)**: Secure, role-based therapy management system (Java 21, Spring Boot 3.5).
 
 ---
 
