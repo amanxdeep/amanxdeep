@@ -21,7 +21,3 @@ I am **Amandeep Kumar**, a Backend Engineer specializing in Java and Spring Boot
 
 *   **Languages/Frameworks**: Java, SQL, Spring Boot, Spring Security, JPA.
 *   **Databases/Tools**: MySQL, Redis, Maven, Git, JUnit 5.
-
----
-
-![Profile Views](https://komarev.com)
