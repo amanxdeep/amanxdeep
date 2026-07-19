@@ -42,7 +42,7 @@ Building scalable backend systems, REST APIs, and distributed applications.
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 
-### Development Environment & Tools
+### Development Workflow
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -50,7 +50,7 @@ Building scalable backend systems, REST APIs, and distributed applications.
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### AI Developer Tools
+### AI-Assisted Development
 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8534F3?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-black?style=for-the-badge&logo=cursor)
