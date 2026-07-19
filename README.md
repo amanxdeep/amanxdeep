@@ -90,11 +90,6 @@ Backend powering a mental wellness platform with secure authentication, REST API
 # 📈 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amanxdeep&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanxdeep&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=amanxdeep&theme=tokyonight&hide_border=true" />
 </p>
 
