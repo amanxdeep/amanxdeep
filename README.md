@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Amandeep
 
-### Backend Developer • Java • Spring Boot • Node.js
+### Backend Developer • Java • Spring Boot • MySQL
 
 Building scalable backend systems, REST APIs, and distributed applications.
 
