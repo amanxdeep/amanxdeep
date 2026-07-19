@@ -52,7 +52,7 @@ Building scalable backend systems, REST APIs, and distributed applications.
 
 ### AI Developer Tools
 
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8534F3?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-black?style=for-the-badge&logo=cursor)
 ![Claude](https://img.shields.io/badge/Claude-555?style=for-the-badge&logo=claude)
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google-colab&logoColor=white)
