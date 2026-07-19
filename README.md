@@ -67,7 +67,7 @@ Building scalable backend systems, REST APIs, and distributed applications.
 
 A scalable notification platform supporting asynchronous processing, event-driven architecture, and multiple notification channels.
 
-**Tech Stack:** Spring Boot • PostgreSQL • REST APIs
+**Tech Stack:** Spring Boot • MySQL • REST APIs
 
 ---
 
@@ -75,7 +75,7 @@ A scalable notification platform supporting asynchronous processing, event-drive
 
 Backend service for intelligent route planning and location-based processing.
 
-**Tech Stack:** Java • Spring Boot • PostgreSQL
+**Tech Stack:** Java • Spring Boot • MySQL
 
 ---
 
@@ -83,7 +83,7 @@ Backend service for intelligent route planning and location-based processing.
 
 Backend powering a mental wellness platform with secure authentication, REST APIs, and persistent data storage.
 
-**Tech Stack:** Spring Boot • JWT • PostgreSQL
+**Tech Stack:** Spring Boot • JWT • MySQL
 
 ---
 
